@@ -3,7 +3,7 @@
 
 ## Ссылки на проект
 
-IP 51.250.10.16
+IP 158.160.108.139
 
 Frontend https://smirnov.nomoreparties.co
 
